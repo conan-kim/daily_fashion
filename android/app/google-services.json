@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "559054534439",
+    "firebase_url": "https://daily-fashion-conan.firebaseio.com",
+    "project_id": "daily-fashion-conan",
+    "storage_bucket": "daily-fashion-conan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559054534439:android:ca33c9829fe5798c4c9b02",
+        "android_client_info": {
+          "package_name": "com.daily_fashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559054534439-almgqn9d1n5rtgatemibt272vesemi5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daily_fashion",
+            "certificate_hash": "5f13866fd5bffad54013bb9f77eb9a072ef0ab28"
+          }
+        },
+        {
+          "client_id": "559054534439-eu13mh50sfghlabtlc7ua445jp6o9ulm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHfOqFFup0mwlUNxD2W8lUJpV54EdXO7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559054534439-eu13mh50sfghlabtlc7ua445jp6o9ulm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
